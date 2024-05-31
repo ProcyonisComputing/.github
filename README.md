@@ -1,2 +1,5 @@
-# .github
-The Project Procyon Development Team
+# Project Procyon
+1. ProcyonOS
+2. ProcyonAI
+3. Procyon Store
+4. Procyon Browser
