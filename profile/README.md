@@ -4,3 +4,4 @@
 2. ProcyonAI - The AI model that runs locally on ProcyonOS.
 3. Procyon Store - The package manager for ProcyonOS.
 4. Procyon Browser - The browser for ProcyonOS.
+5. ProcyonUI - The desktop environment for ProcyonOS.
