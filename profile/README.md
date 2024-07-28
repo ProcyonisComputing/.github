@@ -5,3 +5,4 @@
 3. Procyon Store - The package manager for ProcyonOS.
 4. Procyon Browser - The browser for ProcyonOS.
 5. ProcyonUI - The desktop environment for ProcyonOS.
+6. ProcyoLang - The ProcyoLang Interpreted Language (From Gautham Nair's Personal Project)
