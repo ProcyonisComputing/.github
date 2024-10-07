@@ -1,4 +1,4 @@
-# ![ProcyonBrowser Logo](https://github.com/ProcyonOS/.github/blob/main/ProcyonOS-Small.png) Procyonis Software
+# ![Procyonis Computing Logo](https://github.com/ProcyonOS/.github/blob/main/ProcyonOS-Small.png) Procyonis Computing
 
 1. ProcyonOS - The main linux based ProcyonOS.
 2. ProcyonAI - The AI model that runs locally on ProcyonOS.
